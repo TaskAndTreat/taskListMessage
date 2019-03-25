@@ -1,2 +1,2 @@
 # taskListMessage
-BeautyTipData {"taskTitle":"fix bugs","level":"L", "taskContent":"http://www.qhcftong.com/download2.html"}
+taskListMessage {"taskTitle":"fix bugs","taskLevel":"L", "taskContent":"http://www.qhcftong.com/download2.html"}
